@@ -9,3 +9,6 @@ Inserción de texto de prueba 1
 
 Inserción de texto de prueba 2
 
+### Modificación mediante GitHub
+
+Esta es una modificación hecha desde la web. 
